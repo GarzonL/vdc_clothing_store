@@ -1,0 +1,10 @@
+.Home {
+    width: 100%;
+    min-height: calc(100vh - 45px);
+    background: #161616;
+    background-repeat: repeat;
+    color: #ffffff;
+    display: inline-flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+  }
